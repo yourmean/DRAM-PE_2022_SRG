@@ -10,3 +10,4 @@ for i in range(len(L)):
   ans+=(len(L)-i)*L[i]
 
 print(ans)
+ 
