@@ -18,8 +18,8 @@ min_width = abs(board[(max_width_idx-1) % 6][1] - board[(max_width_idx+1) % 6][1
 min_height = abs(board[(max_height_idx-1) % 6][1] - board[(max_height_idx+1) % 6][1])
 
 
-print((max_height*max_width) - (min_height * min_width) * n)
+print((max_height*max_width) - (min_height * min_width)*n)
 
 
 
-# (1)%6 = 5
+# (-1)%6 = 5
