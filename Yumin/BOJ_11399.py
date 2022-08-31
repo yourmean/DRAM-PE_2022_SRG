@@ -1,6 +1,5 @@
 n = int(input())
-line = list(map(int, input().split()))
-line.sort()
+line = list(map(int, input().split())).sort()
 
 ans = 0
 for i in range(1, n+1):
