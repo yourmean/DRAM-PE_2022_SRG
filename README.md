@@ -24,7 +24,7 @@
 | 22.10.06 | [불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064), [야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|  |
 | 22.10.20 | [적록색약](https://www.acmicpc.net/problem/10026), [아기상어](https://www.acmicpc.net/problem/16236),[삼각달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|  |
 | 22.11.03 | [비밀편지](https://www.acmicpc.net/problem/2596), [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059), [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 김상진, 이유민 |
-| 22.11.10 |  | 남동현, 김상진 |
+| 22.11.10 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842), [숫자짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128), [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 남동현, 김상진 |
 | 22.11.17 |  | |
 | 22.11.24 |  | |
 
